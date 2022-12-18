@@ -43,7 +43,7 @@ public class Login {
 
 	public static void endTest() {
 
-//		driver.quit();
+		driver.quit();
 		System.out.println("Test completed...");
 	}
 
